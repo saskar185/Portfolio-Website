@@ -1,0 +1,10 @@
+.abt_pp{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.paragraph{
+    text-align: justify;
+    
+}
